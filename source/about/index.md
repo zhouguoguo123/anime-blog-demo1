@@ -3,12 +3,16 @@ title: About
 date: 2025-04-09 16:23:59
 ---
 
-### Basic info
+### 关于ZhouLiRui
 
-I'm a good man
+一个破写小说的，会点代码，最近在学Git和MarkDown语法
+~~英语和数学成绩很烂~~
 
 <hr >
 
-### examples
+### 关于我们
 
-This is examples
+这个博客是由 ShenJinRan 和 ZhouLiRui 共同搭建的一个小天地，  
+我们希望通过这个平台分享有趣的内容和经验，和大家一起来探索和学习。  
+
+欢迎大家常来玩，留言交流，和我们一起成长！
