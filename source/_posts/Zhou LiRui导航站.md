@@ -2,7 +2,7 @@
 title: ZhouLiRui 的导航站简介
 date: 2024-06-01
 tags: [导航站, 云服务, AI, 实用工具]
-cover: /source/images/导航站封面.webp
+cover: https://cfi.ryanvan.com/file/1762061275863_导航站封面.webp
 ---
 
 # ZhouLiRui 的导航站
