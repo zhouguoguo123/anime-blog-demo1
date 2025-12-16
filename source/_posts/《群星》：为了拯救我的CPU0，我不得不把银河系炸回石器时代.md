@@ -11,7 +11,6 @@ categories:
   - 游戏杂谈
 cover: /images/群星.jpg
 excerpt: 刚开始玩群星时，我想建立一个充满爱与和平的银河联邦。200年后，看着幻灯片一样的帧数，我默默造出了“地爆天星”，按下了净化按钮。这不叫种族灭绝，这叫“性能优化”。
-permalink: stellaris-cpu-optimization  # 🔗 固定链接，防404！
 ---
 
 在 Paradox 的游戏全家桶里，《群星》（Stellaris）是个异类。它没有历史的包袱，给你一整片星辰大海去探索。
